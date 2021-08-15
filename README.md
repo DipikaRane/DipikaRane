@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Dipika-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/feed/)](https://www.linkedin.com/feed/)
+[![Linkedin Badge](https://img.shields.io/badge/-Dipika-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/feed/)](https://www.linkedin.com/feed/)[![YouTube Badge](https://img.shields.io/badge/YouTube-DeepikaJoge-red)](https://www.youtube.com/)
 
 
 I'm
