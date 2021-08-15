@@ -1,4 +1,4 @@
-### Hi there 👋
+### Namaste Developers🙏 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Dipika-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/feed/)](https://www.linkedin.com/feed/)[![YouTube Badge](https://img.shields.io/badge/YouTube-DeepikaJoge-red)](https://www.youtube.com/)
 
@@ -6,7 +6,7 @@
 I'm
 Full Stack Web Developer
 
-The crossover between design and programming has always been of interest to me. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS), database(MongoDB,Mysql).
+The web development is an interesting field for me to work. I have the knowlege and the skills that includes back-end development using open source technologies (NodeJs, Python), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS), database(MongoDB,Mysql).
 
 
 ![Visitor Count](https://profile-counter.glitch.me/DipikaRane/count.svg)
