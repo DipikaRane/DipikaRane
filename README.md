@@ -6,7 +6,7 @@
 I'm
 Full Stack Web Developer
 
-The web development is an interesting field for me to work. I have the knowlege and the skills that includes back-end development using open source technologies (NodeJs, JavaSript), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS), database(MongoDB,Mysql).
+The web development is an interesting field for me to work. I have the knowlege and the skills that includes back-end development using open source technologies (NodeJs, JavaSript), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Bootstrap ), database(MongoDB).
 
 
 ![Visitor Count](https://profile-counter.glitch.me/DipikaRane/count.svg)
